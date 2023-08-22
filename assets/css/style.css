@@ -15,7 +15,7 @@
 }
 
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: #ef9cda;
 }
 
 .bg-color-contact {
@@ -194,7 +194,7 @@ footer {
 }
 
 .cv-pdf i:hover {
-    color: #ef9cda;
+    color: #9b59b6;
 }
 
 .social-links {
@@ -218,7 +218,7 @@ footer {
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    background: #9b59b6;
 }
 
 #footer-details {
@@ -229,7 +229,7 @@ footer {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #ef9cda;
+    color: #9b59b6;
 }
 
 .three-reasons-heading {

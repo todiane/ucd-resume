@@ -12,7 +12,15 @@ The training takes us through how to create a resume website using html, css and
 
 I updated my website to showcase my own experience and training plus provide links to my portfolio projects and social media.
 
+## My Other Projects
 
+Use Ctrl (Cmd) and mouse click to open them in a new window.
+
+Project 1 - HTML and CSS - [Sologamy](https://todiane.github.io/sologamyp1/)
+
+Project 2 - JavaScript   - [Cycle of Life](https://todiane.github.io/cycle-of-life-p2/)
+
+Project 3 - Python       - [Corri Construction](https://corri-construction-8c4725a33281.herokuapp.com/)
 ---
 
 Happy coding!

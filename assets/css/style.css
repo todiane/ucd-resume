@@ -179,6 +179,7 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+    
 }
 
 .cv-pdf i {
@@ -193,7 +194,7 @@ footer {
 }
 
 .cv-pdf i:hover {
-    color: #e84610;
+    color: #ef9cda;
 }
 
 .social-links {
@@ -228,7 +229,7 @@ footer {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #e67e22;
+    color: #ef9cda;
 }
 
 .three-reasons-heading {

@@ -15,7 +15,11 @@
 }
 
 .bg-color-work-history {
-    background-color: #ef9cda;
+    background-color: #b8a89d;
+}
+
+.bg-color-interests {
+    background-color: #a2c3d0;
 }
 
 .bg-color-contact {
@@ -202,7 +206,7 @@ footer {
 }
 
 .cv-pdf i:hover {
-    color: ##c692a1;
+    color: #c692a1;
 }
 
 .social-links {

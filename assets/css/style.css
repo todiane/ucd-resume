@@ -84,11 +84,12 @@ h4 {
 }
 
 .history-heading,
+.interests-heading,
 .section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 /*--------------------------------------------Heading*/
@@ -349,6 +350,31 @@ footer {
 }
 
 .history-items {
+    margin-bottom: 20px;
+
+}
+
+/* ----------------------------------------Interests */
+
+.interests-timeline:before {
+    content: attr(data);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.interests-heading {
+    color: #fafafa;
+    margin-bottom: 50px;
+}
+
+.interests-items {
     margin-bottom: 30px;
 }
 

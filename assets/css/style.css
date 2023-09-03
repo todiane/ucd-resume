@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #00a5e0;
+    background-color: #c692a1;
 }
 
 .bg-color-three-reasons {
@@ -23,19 +23,27 @@
 }
 
 .ui-menu-color-home {
-    background-color: #89a1ef;
+    background-color: #b6a1c7;
 }
 
 .ui-menu-color-resume {
-    background-color: #ef9cda;
+    background-color: #b8a89d;
 }
 
 .ui-menu-color-contact {
-    background-color: #32cbff;
+    background-color: #98a5b5;
+}
+
+.ui-menu-color-github {
+    background-color: #6b6b6b;
+}
+
+.ui-menu-color-interests {
+    background-color: #a2c3d0;
 }
 
 .ui-menu-color-download {
-    background-color: #525252;
+    background-color: #b0c4a7;
 }
 
 /* ----------------------------------------Special paddings/margins/text */
@@ -194,7 +202,7 @@ footer {
 }
 
 .cv-pdf i:hover {
-    color: #9b59b6;
+    color: ##c692a1;
 }
 
 .social-links {
@@ -218,7 +226,7 @@ footer {
 }
 
 .social-links li a i:hover {
-    background: #9b59b6;
+    background: #c692a1;
 }
 
 #footer-details {
@@ -229,7 +237,7 @@ footer {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #9b59b6;
+    color: #c692a1;
 }
 
 .three-reasons-heading {

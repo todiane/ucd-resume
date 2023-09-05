@@ -1,10 +1,9 @@
-![CI logo](assets/images/ucd-resume-rm.png)
 
+![CI logo](assets/images/ucd-resume-rm.png)
 
 ## Live Website
 
 Live deployed project link is [Diane Corriette Portfolio](https://todiane.github.io/ucd-resume/)
-
 
 This is the Code Institute student template for UCD Resume. Created on 21 August 2023. Another three pages were added 1 September 2023 - GitHub, interests and a 404 error page.  
 
@@ -23,6 +22,7 @@ Project 1 - HTML and CSS - [Sologamy](https://todiane.github.io/sologamyp1/)
 Project 2 - JavaScript   - [Cycle of Life](https://todiane.github.io/cycle-of-life-p2/)
 
 Project 3 - Python       - [Corri Construction](https://corri-construction-8c4725a33281.herokuapp.com/)
+
 ---
 
 Happy coding!

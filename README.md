@@ -10,7 +10,7 @@ This is the Code Institute student template for UCD Resume. Created on 21 August
 
 The training takes us through how to create a resume website using html, css and Bootstrap 4.6.
 
-In the updates an API was used for the GitHub page.
+In the updates an API was used for the GitHub page with a GitHub JavaScript file.
 
 I updated my website to showcase my own experience and training plus provide links to my portfolio projects and social media.
 
